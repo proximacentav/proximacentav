@@ -6,7 +6,7 @@ ZMP versions(mini roadmap):
 - ~~0.1.0~~ 1st private alpha version (no name...)
 - ~~0.2.0~~ 1st public beta, equalizer, preamp, themes (позвоночник позвонил)
 - ~~0.3.0~~ extreme up to 500db equalizer, extreme up to 1000db preamp  metadata(album, image, name, year...) (черемша)
-- 0.4.0 70% new themes, 200x200px metadata image, better metadata extract system, extended color system, equalizer fix... working(АНИМАШКЕ)
+- 0.4.0 95% new themes, 200x200px metadata image, better metadata extract system, extended color system, equalizer fix...fixing bugs(АНИМАШКЕ)
 - 0.5.0
 - 0.6.0
 - 0.7.0
