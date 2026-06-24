@@ -10,7 +10,7 @@ ZMP versions(mini roadmap):
 - ~~0.4.0~~ metadata update, about menu, colored themes control, bug fixes, black/white theme (Анимашке)
 - ~~0.5.0~~ playlists: delete, create playlists, listen queue bugfix, update about page (Лоботомия)
 - ~~0.5.9~~ added speed, semitones tuner, bugfixes (Лоботомия)
-- 0.6.0
+- ~~0.6.0~~ spectrogramm bugfixes, theme bugfix, code refactoring (ВотчДэмо)
 - 0.7.0
 - 0.8.0
 - 0.9.0
