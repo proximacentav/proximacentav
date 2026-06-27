@@ -12,6 +12,6 @@ ZMP versions(mini roadmap):
 - ~~0.5.9~~ added speed, semitones tuner, bugfixes (Лоботомия) -- equalizer upd 2
 - ~~0.6.0~~ spectrogramm bugfixes, theme bugfix, code refactoring (ВотчДэмо) -- structure update
 - ~~0.7.0~~ playlists update, design update, new design (n?и?.m) -- design update
-- 0.8.0
+- 0.8.0 - files update.. 60%~
 - 0.9.0
 ### - 1.0.0 release
